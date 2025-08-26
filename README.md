@@ -18,13 +18,13 @@ Our examples directory contains subdirectories for reproducible experiments, wit
 
 The experiments include:
 
-buildingblocktest - Performance of basic building blocks
+###buildingblocktest - Performance of basic building blocks
 
-gelu_gpt2acc - Evaluation of GPT-2's accuracy on wikitext-2 and PTB
+###gelu_gpt2acc - Evaluation of GPT-2's accuracy on wikitext-2 and PTB
 
-text-generation - Assesses private inference costs for GPT-2 with latency improvements.
+###text-generation - Assesses private inference costs for GPT-2 with latency improvements.
 
-image-classification - Analyzes private inference costs for ViT-base with enhanced performance.
+###image-classification - Analyzes private inference costs for ViT-base with enhanced performance.
 
 
 
